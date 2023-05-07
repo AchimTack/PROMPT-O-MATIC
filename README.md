@@ -1,6 +1,8 @@
 # PROMPT-O-MATIC
 PROMPT-O-MATIC is a tool that simplifies the process of creating prompts for large language models like ChatGPT. With PROMPT-O-MATIC, you can easily select various parameters for text generation, such as the type of text, style, tone, length, language, and format, using drop-down lists. Parameters can be changed using prompts.json 
 
+![localhost_8000_](https://user-images.githubusercontent.com/20294926/236667836-c20a64f2-c4a8-454b-99ec-4fd2a91f7da4.png)
+
 ## How to Use PROMPT-O-MATIC
 - Choose the desired role for the generated text from the dropdown menu.
 - Select the different aspects of text generation parameters from the respective dropdown menus, such as style, tone, length, language, and format.
