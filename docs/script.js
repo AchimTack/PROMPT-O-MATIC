@@ -14,8 +14,6 @@ function updateTextField(parent, data) {
     var inputField = document.getElementById("inputField");
     result += "\nTASK: \n" + inputField.value + "\n";
 
-    console.log(result); // check the value of the result variable
-
     document.getElementById("result").value = result;
 }
 
@@ -96,7 +94,7 @@ xhr.send();
 function copyToClipboard() {
   var resultField = document.getElementById("result");
   resultField.select();
-  resultField.setSelectionRange(0, 99999); // For mobile devices
+  resultField.setSelectionRange(0, 99999);
   document.execCommand("copy");
   window.open("https://chat.openai.com/", "_blank");
 }

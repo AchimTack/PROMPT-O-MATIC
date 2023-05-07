@@ -85,3 +85,23 @@ textarea {
   border-color: #000;
   color: #FFD600;
 }
+
+/* Set styles for the footer */
+footer {
+  background-color: #000;
+  padding: 16px;
+  text-align: center;
+  font-family: 'Press Start 2P';
+}
+
+.footer-link {
+  color: #FFD600;
+  margin: 0 8px;
+  text-decoration: none;
+  font-size: .6rem;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+

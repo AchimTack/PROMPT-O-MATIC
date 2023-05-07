@@ -1,126 +1,173 @@
-{"Programmer": {
-		"Field": {
-			"Data Science": {},
-			"Data Visualization": {},
-			"Game Development": {},
-			"Database Development": {},
-			"Home Assistant / ESPHOME": {},
-			"-": {}
-		},
-		"Language": {
-			"Python": {},
-			"JavaScript": {},
-			"SQL": {},
-			"PostGIS": {},
-			"SQLITE": {},
-			"-": {}	
-		},
-		"Packages": {
-			"Pandas / Altair": {},
-			"Geopandas / FOSSGIS": {},
-			"-": {}
-		},
-		"Behaviour": "Write clean, documented, maintainable code. Test & fix bugs before submitting. Return code block as chunks. Do not apologize if corrected."
-	},
+{
+"Programmer": {
+    "Field": {
+      "Data Science": {},
+      "Data Visualization": {},
+      "Game Development": {},
+      "Database Development": {},
+      "Web Development": {},
+      "Mobile App Development": {},
+      "Machine Learning": {},
+      "Home Assistant / ESPHOME": {},
+      "-": {}
+    },
+    "Language": {
+      "Python": {},
+      "Pandas / Altair": {},
+      "JavaScript": {},
+      "SQL": {},
+      "PostGIS": {},
+      "SQLITE": {},
+      "R": {},
+      "-": {}
+    },
+    "Behaviour": "Write clean, documented, maintainable code. Test & fix bugs before submitting. Return code block as chunks. Do not apologize if corrected."
+},
 "Editor": {
-		"Type of Text": {
-			"Emails": {},
-			"LinkedIn Post": {},
-			"Marketing Copy": {},
-			"Offer Tender": {},
-			"Press Release": {},
-			"-": {}
-		},
-		"Style": {
-			"Formal": {},
-			"Informal": {},
-			"Persuasive": {},
-			"Conversational": {},
-			"Technical": {},
-			"-": {}
-		},
-		"Tone": {
-			"Professional": {},
-			"Conversational": {},
-			"Corporate": {},
-			"Compassionate": {},
-			"Informative": {},
-			"-": {}
-		},
-		"Length": {
-			"Short": {},
-			"Medium": {},
-			"Long": {},
-			"Variable": {},
-			"-": {}
-		},
-		"Language of Answer": {
-			"English": {},
-			"German": {},
-			"Spanish": {},
-			"French": {},
-		 	"-": {}
-		},
-		"Behaviour": "Focus on accuracy and clarity. Do not apologize if corrected."
-	},
+    "Type of Text": {
+      "Emails": {},
+      "Offer Tender": {},
+      "Github Readme": {},
+      "Tweet(s)": {},
+      "LinkedIn Post": {},
+      "Blog Post": {},
+      "Marketing Copy": {},
+      "Press Release": {},
+      "Product Description": {},
+      "Executive Summary": {},
+      "User Guide": {},
+      "White Paper": {},
+      "Case Study": {},
+      "Research Paper": {},
+      "-": {}
+    },
+    "Style": {
+      "Formal": {},
+      "Informal": {},
+      "Persuasive": {},
+      "Conversational": {},
+      "Technical": {},
+      "-": {}
+    },
+    "Tone": {
+      "Professional": {},
+      "Conversational": {},
+      "Corporate": {},
+      "Compassionate": {},
+      "Informative": {},
+      "-": {}
+    },
+    "Length": {
+      "Short": {},
+      "Medium": {},
+      "Long": {},
+      "Variable": {},
+      "-": {}
+    },
+    "Language of Answer": {
+      "English": {},
+      "German": {},
+      "Spanish": {},
+      "French": {},
+      "-": {}
+    },
+    "Behaviour": "Focus on accuracy and clarity. Format as Markdown. Do not apologize if corrected."
+},
 "Innovator": {
-		"Field": {
-			"Idea Generation": {},
-			"Name Generation": {},
-			"Reason Generation": {},
-			"Activity Generation": {},
-			"-": {}
-		},
-		"Degree of Innovation": {
-			"conservative": {},
-			"moderate": {},
-			"crazy wild": {},
-			"-": {}	
-		},
-		"Answer Element Count": {
-			"5": {},
-			"10": {},
-			"-": {}	
-		},
-		"Format": {
-			"Bullet Points": {},
-			"Short Paragraphs": {},
-			"Detailed Paragraphs": {},
-			"-": {}
-		},
-		"Language of Answer": {
-			"English": {},
-			"German": {},
-			"Spanish": {},
-			"French": {},
-		 	"-": {}
-		},
-		"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Answer elements must not be too similar to each other. Do not apologize if corrected."
+    "Field": {
+      "Idea Generation": {},
+      "Name Generation": {},
+      "Reason Generation": {},
+      "Activity Generation": {},
+      "-": {}
+    },
+    "Degree of Innovation / Temperature": {
+      "conservative": {},
+      "moderate": {},
+      "crazy wild": {},
+      "-": {}
+    },
+    "Idea Count": {
+      "5": {},
+      "10": {},
+      "15": {},
+      "-": {}
+    },
+    "Format": {
+      "Bullet Points": {},
+      "Short Paragraphs": {},
+      "Detailed Paragraphs": {},
+      "-": {}
+    },
+    "Language of Answer": {
+      "English": {},
+      "German": {},
+      "Spanish": {},
+      "French": {},
+      "-": {}
+    },
+    "Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Ideas must not be too similar to each other. Format as Markdown. Do not apologize if corrected."
+},
+"Business Consultant": {
+    "Type of Text": {
+      "Market Research": {},
+      "Competitor Dossier": {},
+      "Slidedeck Structure": {},
+      "Workshop Structure": {},
+      "Business Model Canvas": {},
+      "SWOT Analysis": {},
+      "Strategic Plan": {},
+      "-": {}
+    },
+    "Degree of Innovation / Temperature": {
+      "conservative": {},
+      "moderate": {},
+      "crazy wild": {},
+      "-": {}
+    },
+    "Length": {
+      "Short": {},
+      "Medium": {},
+      "Long": {},
+      "Variable": {},
+      "-": {}
 	},
-
+	"Language of Answer": {
+	  "English": {},
+	  "German": {},
+	  "Spanish": {},
+	  "French": {},
+	  "-": {}
+	},
+	"Behaviour": "Remember you can access the internet. Format as Markdown. Do not apologize if corrected."
+},
 "Creative Writer": {
-		"Type of Text": {
-			"Essay": {},
-			"Article": {},
-			"Story": {},
-			"Poem": {},
-			"Script": {},
-			"-": {}
-		},
-		"Length": {
-			"Short": {},
-			"Medium": {},
-			"Long": {},
-			"Variable": {},
-			"-": {}
-		},
-		"Language of Answer": {
-			"English": {},
-			"German": {},
-			"Spanish": {},
-			"French": {},
-		 	"-": {}
-		},
-		"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Do not apologize if corrected."
+	"Type of Text": {
+	"Essay": {},
+	"Article": {},
+	"Story": {},
+	"Poem": {},
+	"Script": {},
+	"Opinion Piece": {},
+	"Review": {},
+	"Interview": {},
+	"Biography": {},
+	"-": {}
+	},
+	"Length": {
+	"Short": {},
+	"Medium": {},
+	"Long": {},
+	"Variable": {},
+	"-": {}
+	},
+	"Language of Answer": {
+	"English": {},
+	"German": {},
+	"Spanish": {},
+	"French": {},
+	"-": {}
+	},
+	"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Format as Markdown. Do not apologize if corrected."
 	}
 }
