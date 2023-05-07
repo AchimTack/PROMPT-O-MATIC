@@ -1,0 +1,126 @@
+{"Programmer": {
+		"Field": {
+			"Data Science": {},
+			"Data Visualization": {},
+			"Game Development": {},
+			"Database Development": {},
+			"Home Assistant / ESPHOME": {},
+			"-": {}
+		},
+		"Language": {
+			"Python": {},
+			"JavaScript": {},
+			"SQL": {},
+			"PostGIS": {},
+			"SQLITE": {},
+			"-": {}	
+		},
+		"Packages": {
+			"Pandas / Altair": {},
+			"Geopandas / FOSSGIS": {},
+			"-": {}
+		},
+		"Behaviour": "Write clean, documented, maintainable code. Test & fix bugs before submitting. Return code block as chunks. Do not apologize if corrected."
+	},
+"Editor": {
+		"Type of Text": {
+			"Emails": {},
+			"LinkedIn Post": {},
+			"Marketing Copy": {},
+			"Offer Tender": {},
+			"Press Release": {},
+			"-": {}
+		},
+		"Style": {
+			"Formal": {},
+			"Informal": {},
+			"Persuasive": {},
+			"Conversational": {},
+			"Technical": {},
+			"-": {}
+		},
+		"Tone": {
+			"Professional": {},
+			"Conversational": {},
+			"Corporate": {},
+			"Compassionate": {},
+			"Informative": {},
+			"-": {}
+		},
+		"Length": {
+			"Short": {},
+			"Medium": {},
+			"Long": {},
+			"Variable": {},
+			"-": {}
+		},
+		"Language of Answer": {
+			"English": {},
+			"German": {},
+			"Spanish": {},
+			"French": {},
+		 	"-": {}
+		},
+		"Behaviour": "Focus on accuracy and clarity. Do not apologize if corrected."
+	},
+"Innovator": {
+		"Field": {
+			"Idea Generation": {},
+			"Name Generation": {},
+			"Reason Generation": {},
+			"Activity Generation": {},
+			"-": {}
+		},
+		"Degree of Innovation": {
+			"conservative": {},
+			"moderate": {},
+			"crazy wild": {},
+			"-": {}	
+		},
+		"Answer Element Count": {
+			"5": {},
+			"10": {},
+			"-": {}	
+		},
+		"Format": {
+			"Bullet Points": {},
+			"Short Paragraphs": {},
+			"Detailed Paragraphs": {},
+			"-": {}
+		},
+		"Language of Answer": {
+			"English": {},
+			"German": {},
+			"Spanish": {},
+			"French": {},
+		 	"-": {}
+		},
+		"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Answer elements must not be too similar to each other. Do not apologize if corrected."
+	},
+
+"Creative Writer": {
+		"Type of Text": {
+			"Essay": {},
+			"Article": {},
+			"Story": {},
+			"Poem": {},
+			"Script": {},
+			"-": {}
+		},
+		"Length": {
+			"Short": {},
+			"Medium": {},
+			"Long": {},
+			"Variable": {},
+			"-": {}
+		},
+		"Language of Answer": {
+			"English": {},
+			"German": {},
+			"Spanish": {},
+			"French": {},
+		 	"-": {}
+		},
+		"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Do not apologize if corrected."
+	}
+}

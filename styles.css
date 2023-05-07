@@ -1,0 +1,87 @@
+/* Load Retro Gaming font for the rest of the page */
+body {
+  font-family: 'Retro Gaming', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000;
+  background-color: #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #f2f1e4;
+}
+
+/* Set styles for the header section */
+header {
+  position: relative;
+  background-color: #000;
+  padding: 16px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin: 0;
+  text-shadow: 2px 2px #FFD600;
+}
+
+header p {
+  font-size: 1.2rem;
+  margin: 0;
+  color: #FFD600;
+}
+
+/* Set styles for the card section */
+.card {
+  border-radius: 2px;
+  background-color: #f2f1e4;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 16px;
+}
+
+.card h2 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #FFD600;
+}
+
+.card p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Set styles for the textarea element */
+textarea {
+  border: none;
+  border-radius: 2px;
+  background-color: #333;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  font-size: 1rem;
+  color: #f7f7f0;
+}
+
+/* Set styles for the button element */
+.btn {
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  font-family: 'Press Start 2P', cursive;
+  text-transform: uppercase;
+  background-color: #FFD600;
+  border-color: #FFD600;
+  color: #000;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+.btn:hover {
+  background-color: #000;
+  border-color: #000;
+  color: #FFD600;
+}
