@@ -21,16 +21,13 @@
       "R": {},
       "-": {}
     },
-    "Behaviour": "Write clean, documented, maintainable code. Test & fix bugs before submitting. Return code block as chunks. Do not apologize if corrected."
+    "Behaviour": "Write clean, documented, maintainable code. Test & fix bugs before submitting. Return code block as chunks. Do not apologize if corrected. Ask for more information if needed."
 },
 "Editor": {
     "Type of Text": {
       "Emails": {},
       "Offer Tender": {},
       "Github Readme": {},
-      "Tweet(s)": {},
-      "LinkedIn Post": {},
-      "Blog Post": {},
       "Marketing Copy": {},
       "Press Release": {},
       "Product Description": {},
@@ -39,6 +36,7 @@
       "White Paper": {},
       "Case Study": {},
       "Research Paper": {},
+      "News Article": {},
       "-": {}
     },
     "Style": {
@@ -71,7 +69,7 @@
       "French": {},
       "-": {}
     },
-    "Behaviour": "Focus on accuracy and clarity. Format as Markdown. Do not apologize if corrected."
+    "Behaviour": "Focus on accuracy and clarity. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
 },
 "Innovator": {
     "Field": {
@@ -106,7 +104,7 @@
       "French": {},
       "-": {}
     },
-    "Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Ideas must not be too similar to each other. Format as Markdown. Do not apologize if corrected."
+    "Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Ideas must not be too similar to each other. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
 },
 "Business Consultant": {
     "Type of Text": {
@@ -139,7 +137,40 @@
 	  "French": {},
 	  "-": {}
 	},
-	"Behaviour": "Remember you can access the internet. Format as Markdown. Do not apologize if corrected."
+	"Behaviour": "Remember you can access the internet. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
+},
+"Social Media Editor": {
+  "Platform": {
+    "Twitter": {},
+    "LinkedIn": {},
+    "Professional Blog Post": {},
+    "Private Blog Post": {},
+    "Facebook Post": {},
+    "-": {}
+    },
+  "Length": {
+    "Short": {},
+    "Medium": {},
+    "Long": {},
+    "Variable": {},
+    "-": {}
+    },
+  "Tone": {
+    "Professional": {},
+    "Conversational": {},
+    "Corporate": {},
+    "Compassionate": {},
+    "Informative": {},
+    "-": {}
+    },
+  "Language": {
+    "English": {},
+    "German": {},
+    "Spanish": {},
+    "French": {},
+    "-": {}
+  },
+  "Behaviour": "Remember maximum post lenght for each platform. Do not apologize if corrected. Ask for more information if needed."
 },
 "Creative Writer": {
 	"Type of Text": {
@@ -168,6 +199,6 @@
 	"French": {},
 	"-": {}
 	},
-	"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Format as Markdown. Do not apologize if corrected."
+	"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
 	}
 }
