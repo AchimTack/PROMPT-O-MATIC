@@ -1,7 +1,7 @@
 function updateTextField(parent, data) {
     console.log("updateTextField called with parent:", parent, "and data:", data);
     var selectedCategory = document.getElementById("categories").value;
-    var result = "ROLE: " + selectedCategory + "\n";
+    var result = "CONTEXT:\nRole: " + selectedCategory;
     Array.from(parent.querySelectorAll(".subcategory")).forEach(function (subcategoryLabel) {
         var subcategoryId = subcategoryLabel.getAttribute("data-subcategory-id");
         var subcategorySelect = document.getElementById(subcategoryId);
@@ -9,10 +9,10 @@ function updateTextField(parent, data) {
     });
     var behaviour = data[selectedCategory]["Behaviour"];
     if (behaviour) {
-        result += "\n\nBehaviour:\n" + behaviour + "\n";
+        result += "\nBehaviour:\n" + behaviour + "\n";
     }
     var inputField = document.getElementById("inputField");
-    result += "\nTASK: \n" + inputField.value + "\n";
+    result += '\nTASK:\n' + inputField.value + '';
 
     document.getElementById("result").value = result;
 }

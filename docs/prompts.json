@@ -1,5 +1,4 @@
-{
-"Programmer": {
+{"Programmer": {
     "Field": {
       "Data Science": {},
       "Data Visualization": {},
@@ -22,10 +21,10 @@
       "-": {}
     },
     "Behaviour": "Write clean, documented, maintainable code. Test & fix bugs before submitting. Return code block as chunks. Do not apologize if corrected. Ask for more information if needed."
-},
-"Editor": {
+  },
+  "Editor": {
     "Type of Text": {
-      "Emails": {},
+      "Email": {},
       "Offer Tender": {},
       "Github Readme": {},
       "Marketing Copy": {},
@@ -70,8 +69,8 @@
       "-": {}
     },
     "Behaviour": "Focus on accuracy and clarity. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
-},
-"Innovator": {
+  },
+  "Innovator": {
     "Field": {
       "Idea Generation": {},
       "Name Generation": {},
@@ -105,8 +104,8 @@
       "-": {}
     },
     "Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Ideas must not be too similar to each other. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
-},
-"Business Consultant": {
+  },
+  "Business Consultant": {
     "Type of Text": {
       "Market Research": {},
       "Competitor Dossier": {},
@@ -129,76 +128,76 @@
       "Long": {},
       "Variable": {},
       "-": {}
-	},
-	"Language of Answer": {
-	  "English": {},
-	  "German": {},
-	  "Spanish": {},
-	  "French": {},
-	  "-": {}
-	},
-	"Behaviour": "Remember you can access the internet. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
-},
-"Social Media Editor": {
-  "Platform": {
-    "Twitter": {},
-    "LinkedIn": {},
-    "Professional Blog Post": {},
-    "Private Blog Post": {},
-    "Facebook Post": {},
-    "-": {}
     },
-  "Length": {
-    "Short": {},
-    "Medium": {},
-    "Long": {},
-    "Variable": {},
-    "-": {}
+    "Language of Answer": {
+      "English": {},
+      "German": {},
+      "Spanish": {},
+      "French": {},
+      "-": {}
     },
-  "Tone": {
-    "Professional": {},
-    "Conversational": {},
-    "Corporate": {},
-    "Compassionate": {},
-    "Informative": {},
-    "-": {}
-    },
-  "Language": {
-    "English": {},
-    "German": {},
-    "Spanish": {},
-    "French": {},
-    "-": {}
+    "Behaviour": "Remember you can access the internet. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
   },
-  "Behaviour": "Remember maximum post lenght for each platform. Do not apologize if corrected. Ask for more information if needed."
-},
-"Creative Writer": {
-	"Type of Text": {
-	"Essay": {},
-	"Article": {},
-	"Story": {},
-	"Poem": {},
-	"Script": {},
-	"Opinion Piece": {},
-	"Review": {},
-	"Interview": {},
-	"Biography": {},
-	"-": {}
-	},
-	"Length": {
-	"Short": {},
-	"Medium": {},
-	"Long": {},
-	"Variable": {},
-	"-": {}
-	},
-	"Language of Answer": {
-	"English": {},
-	"German": {},
-	"Spanish": {},
-	"French": {},
-	"-": {}
-	},
-	"Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
-	}
+  "Social Media Editor": {
+    "Platform": {
+      "Twitter": {},
+      "LinkedIn": {},
+      "Professional Blog Post": {},
+      "Private Blog Post": {},
+      "Facebook Post": {},
+      "-": {}
+    },
+    "Length": {
+      "Short": {},
+      "Medium": {},
+      "Long": {},
+      "Variable": {},
+      "-": {}
+    },
+    "Tone": {
+      "Professional": {},
+      "Conversational": {},
+      "Corporate": {},
+      "Compassionate": {},
+      "Informative": {},
+      "-": {}
+    },
+    "Language": {
+      "English": {},
+      "German": {},
+      "Spanish": {},
+      "French": {},
+      "-": {}
+    },
+    "Behaviour": "Remember maximum post lenght for each platform. Do not apologize if corrected. Ask for more information if needed."
+  },
+  "Creative Writer": {
+    "Type of Text": {
+      "Essay": {},
+      "Article": {},
+      "Story": {},
+      "Poem": {},
+      "Script": {},
+      "Opinion Piece": {},
+      "Review": {},
+      "Interview": {},
+      "Biography": {},
+      "-": {}
+    },
+    "Length": {
+      "Short": {},
+      "Medium": {},
+      "Long": {},
+      "Variable": {},
+      "-": {}
+    },
+    "Language of Answer": {
+      "English": {},
+      "German": {},
+      "Spanish": {},
+      "French": {},
+      "-": {}
+    },
+    "Behaviour": "Take risks, explore new ideas. Embrace experimentation and failure. Format as Markdown. Do not apologize if corrected. Ask for more information if needed."
+  }
 }
